@@ -35,8 +35,7 @@ export const defaultOptions = {
   size: 2,
   power: 1,
 };
-
-// Based off: http://stemkoski.blogspot.fr/2013/07/shaders-in-threejs-glow-and-halo.html
+ 
 export function createGlowMaterial(coefficient, color, power) {
   return new ShaderMaterial({
     depthWrite: true,
