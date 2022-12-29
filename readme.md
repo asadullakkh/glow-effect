@@ -1,4 +1,4 @@
-# Glow Effect 
+# Glow Effect
 
 ## Glow effect with shader in ThreeJS.
 
@@ -6,6 +6,7 @@
 
 ## Setup 
 Download [Node.js](https://nodejs.org/en/download/).
+
 Run this followed commands:
 
 ``` bash
@@ -18,3 +19,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
