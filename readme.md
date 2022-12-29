@@ -1,6 +1,10 @@
-# Three.js Journey
+# Glow Effect 
 
-## Setup
+## Glow effect with shader in ThreeJS.
+
+![Glow effect with shader in ThreeJS](./static/donut.png)
+
+## Setup 
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
